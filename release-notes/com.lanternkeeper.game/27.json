@@ -1,0 +1,28 @@
+{
+ "schema": 1,
+ "package": "com.lanternkeeper.game",
+ "versionCode": 27,
+ "versionName": "0.5.8",
+ "notes": {
+  "en": [
+   "New Ultimates for all four heroes, replacing the old ones.",
+   "Lantern Mage - Time Circle: stops time in a wide field, then a holy beam strikes its centre.",
+   "Wind Archer - Arrow Storm: 40 piercing light arrows per second rain at random across the whole screen for 6 seconds.",
+   "Shield Knight - Holy Bulwark: a giant spirit sword sweeps the lane, then lava burns the ground from the hero to the edge.",
+   "Spirit Warden - Ancestor's Call: a giant ancestor rises mid-field, strikes five times, then collapses in a final explosion.",
+   "Redesigned level-up cards: painted frames for each rarity, Evolution and Fusion, larger icons and clearer text, and every related skill or synergy listed on the card.",
+   "Long card content now scrolls inside the card, with a \"Scroll for more\" hint; card offers, rerolls and rewards work as before.",
+   "Top Players testers: this version has new rankings for Campaign, Endless and Daily. 0.5.7 and earlier rankings and records are kept and stay readable from the ranking selector."
+  ],
+  "vi": [
+   "Tuyệt kỹ mới cho cả bốn anh hùng, thay cho tuyệt kỹ cũ.",
+   "Lantern Mage - Time Circle: dừng thời gian trong một vùng rộng, rồi một tia sáng thánh giáng xuống giữa vùng.",
+   "Wind Archer - Arrow Storm: mỗi giây 40 mũi tên ánh sáng xuyên thấu rơi ngẫu nhiên khắp màn hình trong 6 giây.",
+   "Shield Knight - Holy Bulwark: một thanh kiếm linh hồn khổng lồ quét ngang đường, rồi dung nham thiêu đốt mặt đất từ anh hùng đến mép màn hình.",
+   "Spirit Warden - Ancestor's Call: một tổ linh khổng lồ trỗi dậy giữa chiến trường, tấn công năm lần rồi sụp đổ trong một vụ nổ cuối.",
+   "Thẻ lên cấp được thiết kế lại: khung vẽ riêng cho từng độ hiếm, Tiến hóa và Hợp nhất, biểu tượng lớn hơn và chữ rõ hơn, hiển thị đầy đủ mọi kỹ năng và cộng hưởng liên quan.",
+   "Nội dung thẻ dài giờ cuộn bên trong thẻ, có gợi ý \"Cuộn xem thêm\"; lựa chọn thẻ, lượt đổi thẻ và phần thưởng vẫn như trước.",
+   "Người thử nghiệm Bảng xếp hạng: phiên bản này có bảng xếp hạng mới cho Chiến dịch, Vô tận và Hằng ngày. Bảng xếp hạng và thành tích của 0.5.7 và các bản trước được giữ nguyên và vẫn xem được trong mục chọn bảng."
+  ]
+ }
+}
