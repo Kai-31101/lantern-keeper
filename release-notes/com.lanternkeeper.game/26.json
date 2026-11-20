@@ -1,0 +1,28 @@
+{
+ "schema": 1,
+ "package": "com.lanternkeeper.game",
+ "versionCode": 26,
+ "versionName": "0.5.7",
+ "notes": {
+  "en": [
+   "Every hero now keeps a fixed signature skill and can learn up to three shared skills, with four skill buttons (keys 1-4) plus the ultimate.",
+   "Larger, clearer signature skill effects: Lantern Pulse and Soul Procession impact rings on ground monsters now appear above the struck monster and stay in place until they fade.",
+   "Less on-screen clutter: class combo announcements appear at most once per second, and a Tornado with two fusions shows one body with fire and snow accents.",
+   "Level-up cards have painted frames, larger text and say whether a card is a signature upgrade, a new shared skill or a shared upgrade.",
+   "Clearer battle screen: the ground sits higher above the skill buttons, and mana and kills have separate counters.",
+   "Gear shows your equipped items first; Endless mode explains how to unlock it.",
+   "When Google Play has a newer version for your device, the game asks you to update before you continue playing.",
+   "Top Players testers: this version has its own rankings; earlier rankings stay readable."
+  ],
+  "vi": [
+   "Mỗi anh hùng giữ một kỹ năng riêng cố định và học được tối đa ba kỹ năng chung, với bốn nút kỹ năng (phím 1-4) cùng tuyệt kỹ.",
+   "Hiệu ứng kỹ năng riêng lớn và rõ hơn: với quái mặt đất, vòng va chạm của Lantern Pulse và Soul Procession hiện trên đầu quái bị trúng và đứng yên cho đến khi mờ đi.",
+   "Màn hình gọn hơn: thông báo kết hợp của lớp nhân vật hiện tối đa mỗi giây một lần, và Tornado có hai hợp nhất hiển thị một thân với điểm nhấn lửa và tuyết.",
+   "Thẻ lên cấp có khung vẽ mới, chữ lớn hơn và cho biết đó là nâng cấp kỹ năng riêng, kỹ năng chung mới hay nâng cấp kỹ năng chung.",
+   "Màn chiến đấu rõ hơn: mặt đất nằm cao hơn các nút kỹ năng, mana và số quái hạ gục có ô đếm riêng.",
+   "Trang bị hiển thị đồ đang dùng trước; chế độ Vô tận giải thích cách mở khóa.",
+   "Khi Google Play có phiên bản mới hơn cho thiết bị của bạn, trò chơi sẽ yêu cầu cập nhật trước khi tiếp tục chơi.",
+   "Người thử nghiệm Bảng xếp hạng: phiên bản này có bảng xếp hạng riêng; bảng cũ vẫn xem được."
+  ]
+ }
+}
